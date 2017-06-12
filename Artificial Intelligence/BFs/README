@@ -1,3 +1,4 @@
-Best First Search algortihm for decision making . A robot is in a state and it want to go to a target state , in the road the are obstacles 
-that it want to overcome . This algorithm has a priority queue to store every time best decisions and in the end to achive it's goal.
+Best First Search algorithm for decision making. 
+A robot is in a state and it wants to achieve a target state. In its path there are obstacles that it needs to overcome.
+This algorithm has a priority queue to store the best decisions every time.
 
