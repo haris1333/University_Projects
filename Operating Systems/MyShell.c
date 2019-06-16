@@ -11,11 +11,6 @@ void my_function(int sig){ // can be called asynchronously
 }
   // Register signals 
    
-
-
-
-
-
 char *readCommand(void)//read commands from keyboard
 {
   char *command = NULL;//initialize command variable which is pointer
