@@ -1,1 +1,1 @@
-Projects implementing the Knapsack and Quickhull algorithms in java.
+Projects implementing the Knapsack and Quickhull algorithms in Java.
