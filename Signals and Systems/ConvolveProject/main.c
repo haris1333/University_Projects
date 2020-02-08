@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void convolve(int X[], int H[],int x_len,int h_len,int y_len) //convovlution function
+void convolve(int X[], int H[],int x_len,int h_len,int y_len) //convolution function
 {
 
     FILE *fp;
